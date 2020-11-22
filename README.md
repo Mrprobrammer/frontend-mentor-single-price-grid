@@ -1,3 +1,4 @@
 # frontend-mentor-single-price-grid
 
-![](frontend-mentor-single-price-grid preview.png)
+
+<img src='frontend-mentor-single-price-grid preview.png'>
